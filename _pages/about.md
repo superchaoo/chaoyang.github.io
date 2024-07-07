@@ -51,7 +51,7 @@ INTERSPEECH 2022, 906-910, doi: 10.21437/Interspeech.2022-11183.
 - **J. Li** and D. Liu, “Information bottleneck theory on convolutional neural networks,” Neural Pro-
 cessing Letters, vol. 53, no. 2, pp. 1385–1400, 2021. (JCR Q3)
 
-# 🎖 Certifications and Awards
+# 🎖 Honors and Awards
 - 2016-2017 President’s Scholarship Second Class (top 7%) [[pdf]](../pdf/Award_Scholarship_2nd.pdf)
 - 2016-2017 Merit Student (top 5%)[[pdf]](../pdf/Award_MeritStudent_.pdf)
 - 2017-2018 President’s Scholarship Third Class (top 15%)[[pdf]](../pdf/Award_Scholarship_3nd_.pdf)
@@ -60,6 +60,7 @@ cessing Letters, vol. 53, no. 2, pp. 1385–1400, 2021. (JCR Q3)
 - 2020 Outstanding Graduate Award (top 5%) [[pdf]](../pdf/Award_Outstanding_Graduate_Award.pdf)
 - 2021-2022 Honda Kiyoshi’s Advanced Speech Science Award [[pdf]](../pdf/hongda.pdf)
 
+# 
 
 <!-- 
 # 🔥 News
