@@ -23,7 +23,7 @@ I am currently a Ph.D student, Department of Electrical and Eletronic Engineerin
 My research interest includes Speech Separation, Text to Speech and Speaker-related tasks, such as Speaker Verification, Anti-spoofing and Voice Anonymization. 
 
 
-# 📖 Eduations 
+# 📖 Educations
 - 2024.05 - present, Ph.D. candidate in epartment of Electrical and Eletronic Engineering,  The Hong Kong Polytechnic University, Hong Kong SAR. 
 - 2020.09 - 2023.03, M.E. in College of Intellgence and Computing, Tianjin University, Tianjin. 
 - 2016-09 - 2020.06, B.E. in School of Computer Science and Technology, Tiangong University (Tianjin Polytechnic University), Tianjin. 
@@ -60,7 +60,10 @@ cessing Letters, vol. 53, no. 2, pp. 1385–1400, 2021. (JCR Q3)
 - 2020 Outstanding Graduate Award (top 5%) [[pdf]](../pdf/Award_Outstanding_Graduate_Award.pdf)
 - 2021-2022 Honda Kiyoshi’s Advanced Speech Science Award [[pdf]](../pdf/hongda.pdf)
 
-# 
+# 😄 Acdemica activities 
+- 2024.04 Attending ICASSP 2024 [[Image]](../images/icassp2024/)
+
+
 
 <!-- 
 # 🔥 News
