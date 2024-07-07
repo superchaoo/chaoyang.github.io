@@ -18,11 +18,11 @@
             display: flex;
             flex-wrap: wrap;
             gap: 10px;
-            max-width: 850px; /* 4个图片宽度+3个间距 */
+            max-width: 860px; /* 4个图片宽度+3个间距 (4*200px + 3*10px) */
         }
         .gallery img {
-            flex: 1 0 21%; /* 每个图片占21%的宽度，四个加起来84%，剩下16%用于间距 */
-            max-width: 200px; /* 可选：设置图片的最大宽度 */
+            flex: 1 0 200px;
+            width: 200px; /* 设置图片宽度 */
             height: 200px;
             object-fit: cover;
             border-radius: 10px;
