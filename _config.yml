@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Junjie LI"
   avatar           : "images/Junjie.jpg"
-  bio              : "[[Curriculum Vitae]](pdf/CV_En.pdf)"
+  bio              : "[Curriculum Vitae]"
   location         : "Hong Kong SAR, China"
   employer         :
   pubmed           : 
