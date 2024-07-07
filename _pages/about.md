@@ -26,7 +26,7 @@ My research interest includes Speech Separation, Text to Speech and Speaker-rela
 # 📖 Eduations 
 - 2024.05 - present, Ph.D. candidate in epartment of Electrical and Eletronic Engineering,  The Hong Kong Polytechnic University, Hong Kong SAR. 
 - 2020.09 - 2023.03, M.E. in College of Intellgence and Computing, Tianjin University, Tianjin. 
-- 2016-09 - 2020.06, B.E. in School of Computer Science and Technology, Tiangong University, Tianjin. 
+- 2016-09 - 2020.06, B.E. in School of Computer Science and Technology, Tiangong University (Tianjin Polytechnic University), Tianjin. 
 
 # 💻 Internship Experience
 - 2023.04 - 2024.04, Research Asistant, The Chinese University of Hong Kong (Shenzhen). [[Project Demo]](../videos/Junjie_xinyi.mp4)
@@ -37,9 +37,9 @@ My research interest includes Speech Separation, Text to Speech and Speaker-rela
 # 📝 Publications
 - WeSep: A Scalable and Flexible Toolkit Towards Generalizable Target Speaker Extraction (Accepted by Interspeech 2024)
 - R. Tao, X. Qian, Y. Jiang, **J. Li**, J. Wang and H. Li, Subtracting the unseen sounds: Reverse auditory
-selective hearing in audio-visual target speaker extraction. (Submitted to TASLP). [[demo]](https://activeextract.github.io/)
+selective hearing in audio-visual target speaker extraction. (Submitted to TASLP). 
 - **J. Li**, R. Tao, et al. “Audio-Visual Active Speaker Extraction for Sparsely Overlapped Multi-talker
-Speech,” ICASSP 2024, pp. 10666-10670, doi: 10.1109/ICASSP48485.2024.10448398.
+Speech,” ICASSP 2024, pp. 10666-10670, doi: 10.1109/ICASSP48485.2024.10448398. [[demo]](https://activeextract.github.io/)
 - H. Wang, Y. Fu, **J. Li**, M. Ge, L. Wang and X. Qian, ”Stream Attention Based U-Net for L3DAS23
 Challenge,” ICASSP 2023, pp. 1-2, doi: 10.1109/ICASSP49357.2023.10095854.
 - **J. Li**, M. Ge, et al. Rethinking the Visual Cues in Audio-Visual Speaker Extraction. Proc. INTER-
