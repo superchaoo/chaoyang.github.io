@@ -61,7 +61,7 @@ cessing Letters, vol. 53, no. 2, pp. 1385–1400, 2021. (JCR Q3)
 - 2021-2022 Honda Kiyoshi’s Advanced Speech Science Award [[pdf]](../pdf/hongda.pdf)
 
 # 😄 Acdemica activities 
-- 2024.04 Attending ICASSP 2024 [[Image]](../images/icassp2024/)
+- 2024.04 Attending ICASSP 2024 [[Image]](../images/icassp2024/index.html)
 
 
 
