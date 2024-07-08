@@ -39,13 +39,13 @@ My research interest includes Speech Separation, Text to Speech and Speaker-rela
 - R. Tao, X. Qian, Y. Jiang, **J. Li**, J. Wang and H. Li, Subtracting the unseen sounds: Reverse auditory
 selective hearing in audio-visual target speaker extraction. (Submitted to TASLP). 
 - **J. Li**, R. Tao, et al. “Audio-Visual Active Speaker Extraction for Sparsely Overlapped Multi-talker
-Speech,” ICASSP 2024, pp. 10666-10670, doi: 10.1109/ICASSP48485.2024.10448398. [[demo]](https://activeextract.github.io/)
+Speech,” ICASSP 2024, pp. 10666-10670, doi: 10.1109/ICASSP48485.2024.10448398. [[Code]](https://github.com/mrjunjieli/ActiveExtract) [[Demo]](https://activeextract.github.io/) 
 - H. Wang, Y. Fu, **J. Li**, M. Ge, L. Wang and X. Qian, ”Stream Attention Based U-Net for L3DAS23
 Challenge,” ICASSP 2023, pp. 1-2, doi: 10.1109/ICASSP49357.2023.10095854.
 - **J. Li**, M. Ge, et al. Rethinking the Visual Cues in Audio-Visual Speaker Extraction. Proc. INTER-
-SPEECH 2023, 3754-3758, doi: 10.21437/Interspeech.2023-2545.
+SPEECH 2023, 3754-3758, doi: 10.21437/Interspeech.2023-2545.[[Code]](https://github.com/mrjunjieli/DAVSE)
 - **J. Li**, M. Ge, et al. ”Deep Multi-task Cascaded Acoustic Echo Cancellation and Noise Suppres-
-sion,” 2022 13th ISCSLP, pp. 130-134, doi: 10.1109/ISCSLP57327.2022.10037852.
+sion,” 2022 13th ISCSLP, pp. 130-134, doi: 10.1109/ISCSLP57327.2022.10037852. [[Code]](https://github.com/mrjunjieli/DMC_AEC)
 - **J. Li**, M. Ge, et al. VCSE: Time-Domain Visual-Contextual Speaker Extraction Network. Proc.
 INTERSPEECH 2022, 906-910, doi: 10.21437/Interspeech.2022-11183.
 - **J. Li** and D. Liu, “Information bottleneck theory on convolutional neural networks,” Neural Pro-
