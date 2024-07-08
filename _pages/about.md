@@ -61,7 +61,11 @@ cessing Letters, vol. 53, no. 2, pp. 1385–1400, 2021. (JCR Q3)
 - 2021-2022 Honda Kiyoshi’s Advanced Speech Science Award [[pdf]](../pdf/hongda.pdf)
 
 # 😄 Academic Activities 
-- 2024.04 Attending ICASSP 2024 [[Image]](../images/icassp2024/index.html)
+- 2024.04 Attending ICASSP 2024, Korea. [[Image]](../images/icassp2024/index.html)
+- 2024.03 ICASSP 2024 preview, organised by <a href='https://sds.cuhk.edu.cn/en/teacher/641'>Dr. Zhizheng WU </a>, Shenzhen. [[Image]](../images/icassp2024_preview/index.html)
+- 2023.12 International Doctoral Forum 2023, CUHK. [[Image]](../images/CUHK2023/index.html)
+- 2023.12 International Workshop on Mathematical Issues in Information Sciences 2023, CUHK(SZ). [[Image]](../images/MIIS2023/index.html)
+- 2023.12 CHINA HI-TECH Forum 2023, Shenzhen. [[Image]](../images/HITECH2023/index.html)
 
 
 
