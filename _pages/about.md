@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Ph.D student, Department of Electrical and Eletronic Engineering, Faculty of Engineering, The Hong Kong Polytechnic University (PolyU)🇭🇰. My chief supervisor is <a href="https://sites.google.com/view/kongaiklee"> Dr. Kong Aik LEE </a> and co-supervisor is <a href="http://www.eie.polyu.edu.hk/~mwmak/">Prof.Man-Wai Mak</a>. I recived my Master's Degree in College of Intellgence and Computing, Tianjin University, supervised by <a href="https://cic.tju.edu.cn/faculty/wanglongbiao/wang.html">Prof. Longbiao WANG</a>, and recived my Bachelor's Degree in School of Computer Science and Technology, Tiangong University. In my third year as an undergraduate, I was fortunate to have the opportunity to study under <a href='https://scholar.google.com.hk/citations?user=g9oFBgMAAAAJ&hl=zh-CN&oi=sra'>Dr. Ding Liu</a>, who is an excellent teacher, guiding me to the academic path. 
+I am currently a Ph.D student, Department of Electrical and Eletronic Engineering, Faculty of Engineering, The Hong Kong Polytechnic University (PolyU)🇭🇰. My chief supervisor is <a href="https://sites.google.com/view/kongaiklee"> Dr. Kong Aik LEE </a> and co-supervisor is <a href="http://www.eie.polyu.edu.hk/~mwmak/">Prof. Man-Wai Mak</a>. I recived my Master's Degree in College of Intellgence and Computing, Tianjin University, supervised by <a href="https://cic.tju.edu.cn/faculty/wanglongbiao/wang.html">Prof. Longbiao WANG</a>, and recived my Bachelor's Degree in School of Computer Science and Technology, Tiangong University. In my third year as an undergraduate, I was fortunate to have the opportunity to study under <a href='https://scholar.google.com.hk/citations?user=g9oFBgMAAAAJ&hl=zh-CN&oi=sra'>Dr. Ding Liu</a>, who is an excellent teacher, guiding me to the academic path. 
 
 
 My research interest includes Speech Separation, Text to Speech and Speaker-related tasks, such as Speaker Verification, Anti-spoofing and Voice Anonymization. 
@@ -29,9 +29,9 @@ My research interest includes Speech Separation, Text to Speech and Speaker-rela
 - 2016-09 - 2020.06, B.E. in School of Computer Science and Technology, Tiangong University (Tianjin Polytechnic University), Tianjin. 
 
 # 💻 Internship Experience
-- 2023.04 - 2024.04, Research Asistant, The Chinese University of Hong Kong (Shenzhen). [[Project Demo]](../videos/Junjie_xinyi.mp4)
-- 2022.06 - 2022.12, Alibaba DAMO Academy, Hangzhou
-- 2021.11 - 2022.01, Huawei, Dongguan. 
+- 2023.04 - 2024.04, Research Asistant, supervised by <a href="https://sds.cuhk.edu.cn/en/teacher/498">Prof. Haizhou Li</a>, The Chinese University of Hong Kong (Shenzhen). [[Project Demo]](../videos/Junjie_xinyi.mp4)
+- 2022.06 - 2022.12, supervised by <a href='https://scholar.google.com/citations?user=BcWMSE4AAAAJ&hl=zh-CN'>Dr. Shiliang Zhang</a>, Alibaba DAMO Academy, Hangzhou.
+- 2021.11 - 2022.01, <a href='https://e.huawei.com/cn/products-and-solutions'>ICT</a>, Huawei, Dongguan. 
 
 
 # 📝 Publications
