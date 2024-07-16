@@ -35,6 +35,7 @@ My research interest includes Speech Separation, Text to Speech and Speaker-rela
 
 
 # 📝 Publications
+- MoMuSE: Momentum Multi-modal target Speaker Extraction for scenarios with impaired visual cues (Submitted to SPL) [[demo]](../demo_page/MoMuSE/index.html)
 - WeSep: A Scalable and Flexible Toolkit Towards Generalizable Target Speaker Extraction (Accepted by Interspeech 2024)
 - R. Tao, X. Qian, Y. Jiang, **J. Li**, J. Wang and H. Li, Subtracting the unseen sounds: Reverse auditory
 selective hearing in audio-visual target speaker extraction. (Submitted to TASLP). 
