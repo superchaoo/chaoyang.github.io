@@ -29,7 +29,7 @@ My research interest includes Speech Separation, Text to Speech and Speaker-rela
 - 2016-09 - 2020.06, B.E. in School of Computer Science and Technology, Tiangong University (Tianjin Polytechnic University), Tianjin. 
 
 # 💻 Internship Experience
-- 2023.04 - 2024.04, Research Asistant, supervised by <a href="https://sds.cuhk.edu.cn/en/teacher/498">Prof. Haizhou Li</a>, The Chinese University of Hong Kong (Shenzhen). [[Project Demo]](../videos/Junjie_xinyi.mp4)
+- 2023.04 - 2024.04, Research Asistant, supervised by <a href="https://sds.cuhk.edu.cn/en/teacher/498">Prof. Haizhou Li</a> and <a href="https://wsstriving.github.io">Shuai Wang</a>, The Chinese University of Hong Kong (Shenzhen). [[Project Demo]](../videos/Junjie_xinyi.mp4)
 - 2022.06 - 2022.12, supervised by <a href='https://scholar.google.com/citations?user=BcWMSE4AAAAJ&hl=zh-CN'>Dr. Shiliang Zhang</a>, Alibaba DAMO Academy, Hangzhou.
 - 2021.11 - 2022.01, <a href='https://e.huawei.com/cn/products/enterprise-collaboration/ideahub'>ICT</a>, Huawei, Dongguan. 
 
