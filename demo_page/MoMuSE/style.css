@@ -56,7 +56,7 @@ h3, h4 {
   position: absolute; /* 绝对定位 */  
   top: 0; /* 标题紧贴容器顶部 */  
   left: 0; /* 标题从左边开始 */  
-  width: 100%; /* 标题宽度与容器相同 */  
+  width: 23%; /* 标题宽度与容器相同 */  
   text-align: center; /* 文本居中显示 */  
   background-color: rgba(0, 0, 0, 0.5); /* 半透明背景，以便看到视频 */  
   color: black; /* 文本颜色 */  
