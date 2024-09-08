@@ -36,7 +36,9 @@ My research interest includes Speech Separation, Text to Speech and Speaker-rela
 
 # 📝 Publications
 - MoMuSE: Momentum Multi-modal target Speaker Extraction for scenarios with impaired visual cues (Submitted to SPL) [[demo]](../demo_page/MoMuSE/index.html)
-- WeSep: A Scalable and Flexible Toolkit Towards Generalizable Target Speaker Extraction (Accepted by Interspeech 2024)
+- ON THE EFFECTIVENESS OF ENROLLMENT SPEECH AUGMENTATION FOR TARGET SPEAKER EXTRACTION (accepted by SLT2024)
+- ENHANCING SPEAKER EXTRACTION THROUGH RECTIFYING TARGET CONFUSION (accepted by SLT2024)
+- Wang, S., Zhang, K., Lin, S., Li, J., Wang, X., Ge, M., Yu, J., Qian, Y., Li, H. (2024) WeSep: A Scalable and Flexible Toolkit Towards Generalizable Target Speaker Extraction. Proc. Interspeech 2024, 4273-4277, doi: 10.21437/Interspeech.2024-1840
 - R. Tao, X. Qian, Y. Jiang, **J. Li**, J. Wang and H. Li, Subtracting the unseen sounds: Reverse auditory
 selective hearing in audio-visual target speaker extraction. (Submitted to TASLP). 
 - **J. Li**, R. Tao, et al. “Audio-Visual Active Speaker Extraction for Sparsely Overlapped Multi-talker
@@ -62,6 +64,7 @@ cessing Letters, vol. 53, no. 2, pp. 1385–1400, 2021. (JCR Q3)[[Code]](https:/
 - 2021-2022 Honda Kiyoshi’s Advanced Speech Science Award [[pdf]](../pdf/hongda.pdf)
 
 # 😄 Academic Activities 
+- 2024.08 [[PolyU Research Student Conference]](https://events.polyu.edu.hk/prsc2024/home) [[Image]](../images/PRSC/index.html)
 - 2024.04 Attending ICASSP 2024, Korea. [[Image]](../images/icassp2024/index.html)
 - 2024.03 ICASSP 2024 preview, organised by <a href='https://sds.cuhk.edu.cn/en/teacher/641'>Dr. Zhizheng WU </a>, Shenzhen. [[Image]](../images/icassp2024_preview/index.html)
 - 2023.12 International Doctoral Forum 2023, CUHK. [[Image]](../images/CUHK2023/index.html)
