@@ -48,7 +48,7 @@ Speech,” ICASSP 2024, pp. 10666-10670, doi: 10.1109/ICASSP48485.2024.10448398.
 Challenge,” ICASSP 2023, pp. 1-2, doi: 10.1109/ICASSP49357.2023.10095854.
 - **<u>J. Li</u>**, M. Ge, et al. Rethinking the Visual Cues in Audio-Visual Speaker Extraction. Proc. INTER-
 SPEECH 2023, 3754-3758, doi: 10.21437/Interspeech.2023-2545.\| [![](https://img.shields.io/github/stars/mrjunjieli/DAVSE?style=social&label=Code+Stars)](https://github.com/mrjunjieli/DAVSE)
--**<u>J. Li</u>**, M. Ge, et al. ”Deep Multi-task Cascaded Acoustic Echo Cancellation and Noise Suppres-
+- **<u>J. Li</u>**, M. Ge, et al. ”Deep Multi-task Cascaded Acoustic Echo Cancellation and Noise Suppres-
 sion,” 2022 13th ISCSLP, pp. 130-134, doi: 10.1109/ISCSLP57327.2022.10037852. \| [![](https://img.shields.io/github/stars/mrjunjieli/DMC_AEC?style=social&label=Code+Stars)](https://github.com/mrjunjieli/DMC_AEC)
 - **<u>J. Li</u>**, M. Ge, et al. VCSE: Time-Domain Visual-Contextual Speaker Extraction Network. Proc.
 INTERSPEECH 2022, 906-910, doi: 10.21437/Interspeech.2022-11183.
