@@ -19,7 +19,6 @@ redirect_from:
 
 I am currently a Ph.D student, Department of Electrical and Eletronic Engineering, Faculty of Engineering, The Hong Kong Polytechnic University (PolyU)🇭🇰. My chief supervisor is <a href="https://sites.google.com/view/kongaiklee"> Dr. Kong Aik LEE </a> and co-supervisor is <a href="http://www.eie.polyu.edu.hk/~mwmak/">Prof. Man-Wai Mak</a>. I recived my Master's Degree in College of Intellgence and Computing, Tianjin University, supervised by <a href="https://cic.tju.edu.cn/faculty/wanglongbiao/wang.html">Prof. Longbiao WANG</a>, and recived my Bachelor's Degree in School of Computer Science and Technology, Tiangong University. In my third year as an undergraduate, I was fortunate to have the opportunity to study under <a href='https://scholar.google.com.hk/citations?user=g9oFBgMAAAAJ&hl=zh-CN&oi=sra'>Dr. Ding Liu</a>, who is an excellent teacher, guiding me to the academic path. 
 
-
 My research interest includes Speech Separation, Text to Speech and Speaker-related tasks, such as Speaker Verification, Anti-spoofing and Voice Anonymization. 
 
 
@@ -35,24 +34,24 @@ My research interest includes Speech Separation, Text to Speech and Speaker-rela
 
 
 # 📝 Publications
-- MoMuSE: Momentum Multi-modal target Speaker Extraction for scenarios with impaired visual cues (Submitted to SPL) [[demo]](../demo_page/MoMuSE/index.html)
+- MoMuSE: Momentum Multi-modal target Speaker Extraction for scenarios with impaired visual cues (Submitted to SPL) [[demo]](../demo_page/MoMuSE/index.html) 
 - ON THE EFFECTIVENESS OF ENROLLMENT SPEECH AUGMENTATION FOR TARGET SPEAKER EXTRACTION (accepted by SLT2024)
 - ENHANCING SPEAKER EXTRACTION THROUGH RECTIFYING TARGET CONFUSION (accepted by SLT2024)
-- Wang, S., Zhang, K., Lin, S., Li, J., Wang, X., Ge, M., Yu, J., Qian, Y., Li, H. (2024) WeSep: A Scalable and Flexible Toolkit Towards Generalizable Target Speaker Extraction. Proc. Interspeech 2024, 4273-4277, doi: 10.21437/Interspeech.2024-1840
+- Wang, S., Zhang, K., Lin, S., Li, J., Wang, X., Ge, M., Yu, J., Qian, Y., Li, H. (2024) WeSep: A Scalable and Flexible Toolkit Towards Generalizable Target Speaker Extraction. Proc. Interspeech 2024, 4273-4277, doi: 10.21437/Interspeech.2024-1840  \| [![](https://img.shields.io/github/stars/wenet-e2e/wesep?style=social&label=Code+Stars)](https://github.com/wenet-e2e/wesep)
 - R. Tao, X. Qian, Y. Jiang, **J. Li**, J. Wang and H. Li, Subtracting the unseen sounds: Reverse auditory
 selective hearing in audio-visual target speaker extraction. (Submitted to TASLP). 
 - **J. Li**, R. Tao, et al. “Audio-Visual Active Speaker Extraction for Sparsely Overlapped Multi-talker
-Speech,” ICASSP 2024, pp. 10666-10670, doi: 10.1109/ICASSP48485.2024.10448398. [[Code]](https://github.com/mrjunjieli/ActiveExtract) [[Demo]](https://activeextract.github.io/) 
+Speech,” ICASSP 2024, pp. 10666-10670, doi: 10.1109/ICASSP48485.2024.10448398.  \| [![](https://img.shields.io/github/stars/mrjunjieli/ActiveExtract?style=social&label=Code+Stars)](https://github.com/mrjunjieli/ActiveExtract) [[Demo]](https://activeextract.github.io/) 
 - H. Wang, Y. Fu, **J. Li**, M. Ge, L. Wang and X. Qian, ”Stream Attention Based U-Net for L3DAS23
 Challenge,” ICASSP 2023, pp. 1-2, doi: 10.1109/ICASSP49357.2023.10095854.
 - **J. Li**, M. Ge, et al. Rethinking the Visual Cues in Audio-Visual Speaker Extraction. Proc. INTER-
-SPEECH 2023, 3754-3758, doi: 10.21437/Interspeech.2023-2545.[[Code]](https://github.com/mrjunjieli/DAVSE)
+SPEECH 2023, 3754-3758, doi: 10.21437/Interspeech.2023-2545.\| [![](https://img.shields.io/github/stars/mrjunjieli/DAVSE?style=social&label=Code+Stars)](https://github.com/mrjunjieli/DAVSE)
 - **J. Li**, M. Ge, et al. ”Deep Multi-task Cascaded Acoustic Echo Cancellation and Noise Suppres-
-sion,” 2022 13th ISCSLP, pp. 130-134, doi: 10.1109/ISCSLP57327.2022.10037852. [[Code]](https://github.com/mrjunjieli/DMC_AEC)
+sion,” 2022 13th ISCSLP, pp. 130-134, doi: 10.1109/ISCSLP57327.2022.10037852. \| [![](https://img.shields.io/github/stars/mrjunjieli/DMC_AEC?style=social&label=Code+Stars)](https://github.com/mrjunjieli/DMC_AEC)
 - **J. Li**, M. Ge, et al. VCSE: Time-Domain Visual-Contextual Speaker Extraction Network. Proc.
 INTERSPEECH 2022, 906-910, doi: 10.21437/Interspeech.2022-11183.
 - **J. Li** and D. Liu, “Information bottleneck theory on convolutional neural networks,” Neural Pro-
-cessing Letters, vol. 53, no. 2, pp. 1385–1400, 2021. (JCR Q3)[[Code]](https://github.com/mrjunjieli/IB_ON_CNN)
+cessing Letters, vol. 53, no. 2, pp. 1385–1400, 2021. (JCR Q3) \| [![](https://img.shields.io/github/stars/mrjunjieli/IB_ON_CNN?style=social&label=Code+Stars)](https://github.com/mrjunjieli/IB_ON_CNN)
 
 # 🎖 Honors and Awards
 - 2016-2017 President’s Scholarship Second Class (top 7%) [[pdf]](../pdf/Award_Scholarship_2nd.pdf)
@@ -64,7 +63,7 @@ cessing Letters, vol. 53, no. 2, pp. 1385–1400, 2021. (JCR Q3)[[Code]](https:/
 - 2021-2022 Honda Kiyoshi’s Advanced Speech Science Award [[pdf]](../pdf/hongda.pdf)
 
 # 😄 Academic Activities 
-- 2024.08 [[PolyU Research Student Conference]](https://events.polyu.edu.hk/prsc2024/home) [[Image]](../images/PRSC/index.html)
+- 2024.08 [PolyU Research Student Conference](https://events.polyu.edu.hk/prsc2024/home) [[Image]](../images/PRSC/index.html)
 - 2024.04 Attending ICASSP 2024, Korea. [[Image]](../images/icassp2024/index.html)
 - 2024.03 ICASSP 2024 preview, organised by <a href='https://sds.cuhk.edu.cn/en/teacher/641'>Dr. Zhizheng WU </a>, Shenzhen. [[Image]](../images/icassp2024_preview/index.html)
 - 2023.12 International Doctoral Forum 2023, CUHK. [[Image]](../images/CUHK2023/index.html)
