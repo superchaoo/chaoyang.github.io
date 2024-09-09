@@ -39,21 +39,21 @@ My research interest includes Speech Separation, Text to Speech and Speaker-rela
 - MoMuSE: Momentum Multi-modal target Speaker Extraction for scenarios with impaired visual cues (Submitted to SPL) [[demo]](../demo_page/MoMuSE/index.html) 
 - ON THE EFFECTIVENESS OF ENROLLMENT SPEECH AUGMENTATION FOR TARGET SPEAKER EXTRACTION (accepted by SLT2024)
 - ENHANCING SPEAKER EXTRACTION THROUGH RECTIFYING TARGET CONFUSION (accepted by SLT2024)
-- Wang, S., Zhang, K., Lin, S., **<u>Li, J.</u>**, Wang, X., Ge, M., Yu, J., Qian, Y., Li, H. (2024) WeSep: A Scalable and Flexible Toolkit Towards Generalizable Target Speaker Extraction. Proc. Interspeech 2024, 4273-4277, doi: 10.21437/Interspeech.2024-1840  \| [![](https://img.shields.io/github/stars/wenet-e2e/wesep?style=social&label=Code+Stars)](https://github.com/wenet-e2e/wesep)
+- Wang, S., Zhang, K., Lin, S., **<u>Li, J.</u>**, Wang, X., Ge, M., Yu, J., Qian, Y., Li, H. (2024) WeSep: A Scalable and Flexible Toolkit Towards Generalizable Target Speaker Extraction. Proc. Interspeech 2024, 4273-4277, doi: 10.21437/Interspeech.2024-1840   [![](https://img.shields.io/github/stars/wenet-e2e/wesep?style=social&label=Code+Stars)](https://github.com/wenet-e2e/wesep)
 - R. Tao, X. Qian, Y. Jiang, **<u>J. Li</u>**, J. Wang and H. Li, Subtracting the unseen sounds: Reverse auditory
 selective hearing in audio-visual target speaker extraction. (Submitted to TASLP). 
 - **<u>J. Li</u>**, R. Tao, et al. “Audio-Visual Active Speaker Extraction for Sparsely Overlapped Multi-talker
-Speech,” ICASSP 2024, pp. 10666-10670, doi: 10.1109/ICASSP48485.2024.10448398.  \| [![](https://img.shields.io/github/stars/mrjunjieli/ActiveExtract?style=social&label=Code+Stars)](https://github.com/mrjunjieli/ActiveExtract) [[Demo]](https://activeextract.github.io/) 
+Speech,” ICASSP 2024, pp. 10666-10670, doi: 10.1109/ICASSP48485.2024.10448398.   [![](https://img.shields.io/github/stars/mrjunjieli/ActiveExtract?style=social&label=Code+Stars)](https://github.com/mrjunjieli/ActiveExtract) [[Demo]](https://activeextract.github.io/) 
 - H. Wang, Y. Fu,**<u>J. Li</u>**, M. Ge, L. Wang and X. Qian, ”Stream Attention Based U-Net for L3DAS23
 Challenge,” ICASSP 2023, pp. 1-2, doi: 10.1109/ICASSP49357.2023.10095854.
 - **<u>J. Li</u>**, M. Ge, et al. Rethinking the Visual Cues in Audio-Visual Speaker Extraction. Proc. INTER-
-SPEECH 2023, 3754-3758, doi: 10.21437/Interspeech.2023-2545.\| [![](https://img.shields.io/github/stars/mrjunjieli/DAVSE?style=social&label=Code+Stars)](https://github.com/mrjunjieli/DAVSE)
+SPEECH 2023, 3754-3758, doi: 10.21437/Interspeech.2023-2545. [![](https://img.shields.io/github/stars/mrjunjieli/DAVSE?style=social&label=Code+Stars)](https://github.com/mrjunjieli/DAVSE)
 - **<u>J. Li</u>**, M. Ge, et al. ”Deep Multi-task Cascaded Acoustic Echo Cancellation and Noise Suppres-
-sion,” 2022 13th ISCSLP, pp. 130-134, doi: 10.1109/ISCSLP57327.2022.10037852. \| [![](https://img.shields.io/github/stars/mrjunjieli/DMC_AEC?style=social&label=Code+Stars)](https://github.com/mrjunjieli/DMC_AEC)
+sion,” 2022 13th ISCSLP, pp. 130-134, doi: 10.1109/ISCSLP57327.2022.10037852.  [![](https://img.shields.io/github/stars/mrjunjieli/DMC_AEC?style=social&label=Code+Stars)](https://github.com/mrjunjieli/DMC_AEC)
 - **<u>J. Li</u>**, M. Ge, et al. VCSE: Time-Domain Visual-Contextual Speaker Extraction Network. Proc.
-INTERSPEECH 2022, 906-910, doi: 10.21437/Interspeech.2022-11183.
+INTERSPEECH 2022, 906-910, doi: 10.21437/Interspeech.2022-11183. [![](https://img.shields.io/github/stars/mrjunjieli/LRS3_for_AVSS?style=social&label=Code+Stars)](https://github.com/mrjunjieli/LRS3_for_AVSS)
 - **<u>J. Li</u>** and D. Liu, “Information bottleneck theory on convolutional neural networks,” Neural Pro-
-cessing Letters, vol. 53, no. 2, pp. 1385–1400, 2021. (JCR Q3) \| [![](https://img.shields.io/github/stars/mrjunjieli/IB_ON_CNN?style=social&label=Code+Stars)](https://github.com/mrjunjieli/IB_ON_CNN)
+cessing Letters, vol. 53, no. 2, pp. 1385–1400, 2021. (JCR Q3)  [![](https://img.shields.io/github/stars/mrjunjieli/IB_ON_CNN?style=social&label=Code+Stars)](https://github.com/mrjunjieli/IB_ON_CNN)
 
 # 🎖 Honors and Awards
 - 2016-2017 President’s Scholarship Second Class (top 7%) [[pdf]](../pdf/Award_Scholarship_2nd.pdf)
