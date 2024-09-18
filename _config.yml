@@ -56,7 +56,8 @@ author:
   weibo            :
   xing             :
   youtube          :
-  wikipedia        : ../images/wechat.jpg
+  wikipedia        :
+  wechat           : ../images/wechat.jpg
 
 
 # Reading Files
