@@ -37,8 +37,8 @@ My research interest includes Speech Separation, Text to Speech and Speaker-rela
 
 # 📝 Publications
 - MoMuSE: Momentum Multi-modal target Speaker Extraction for scenarios with impaired visual cues (Submitted to SPL) [[demo]](../demo_page/MoMuSE/index.html) 
-- **<u>Li Junjie</u>**, Zhang Ke, Wang Shuai, Li Haizhou, Mak Man-Wai, Lee Kong Aik "On the effectiveness of enrollment speech augmentation for Target Speaker Extraction." arXiv preprint arXiv:2409.09589 (2024).(accepted by SLT2024)
-- Wang Jiahe, Wang Shuai,  **<u>Li Junjie</u>**, et al. ENHANCING SPEAKER EXTRACTION THROUGH RECTIFYING TARGET CONFUSION (accepted by SLT2024)
+- **<u>Li Junjie</u>**, Zhang Ke, Wang Shuai, Li Haizhou, Mak Man-Wai, Lee Kong Aik "On the effectiveness of enrollment speech augmentation for Target Speaker Extraction." arXiv preprint arXiv:2409.09589 (2024).(accepted by SLT2024) [![](https://img.shields.io/github/stars/wenet-e2e/wesep?style=social&label=Code+Stars)](https://github.com/wenet-e2e/wesep)
+- Wang Jiahe, Wang Shuai,  **<u>Li Junjie</u>**, et al. ENHANCING SPEAKER EXTRACTION THROUGH RECTIFYING TARGET CONFUSION (accepted by SLT2024) [![](https://img.shields.io/github/stars/wenet-e2e/wesep?style=social&label=Code+Stars)](https://github.com/wenet-e2e/wesep)
 - Wang Shuai, Zhang Ke, Lin Shaoxiong, **<u>Li Junjie</u>**, et al. (2024) WeSep: A Scalable and Flexible Toolkit Towards Generalizable Target Speaker Extraction. Proc. Interspeech 2024, 4273-4277, doi: 10.21437/Interspeech.2024-1840   [![](https://img.shields.io/github/stars/wenet-e2e/wesep?style=social&label=Code+Stars)](https://github.com/wenet-e2e/wesep)
 - Yang Hongli, Chen Xinyi, **<u>Li Junjie</u>**, et al. Listen to the Speaker in Your Gaze," 2024 IEEE International Conference on Cybernetics and Intelligent Systems (CIS) and IEEE International Conference on Robotics, Automation and Mechatronics (RAM), Hangzhou, China, 2024, pp. 380-385, doi: 10.1109/CIS-RAM61939.2024.10672879.
 - Tao Ruijie, Qian Xinyuan,Jiang Yidi, **<u>Li Junjie</u>**, Wang Jiadong, Li Haizhou Subtracting the unseen sounds: Reverse auditory
