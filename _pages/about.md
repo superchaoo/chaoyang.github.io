@@ -36,6 +36,8 @@ My research interest includes Speech Separation, Text to Speech and Speaker-rela
 
 
 # 📝 Publications
+
+## 2024 
 - MoMuSE: Momentum Multi-modal target Speaker Extraction for scenarios with impaired visual cues (Submitted to SPL) [[demo]](../demo_page/MoMuSE/index.html) 
 - **<u>Li Junjie</u>**, Zhang Ke, Wang Shuai, Li Haizhou, Mak Man-Wai, Lee Kong Aik "On the effectiveness of enrollment speech augmentation for Target Speaker Extraction." arXiv preprint arXiv:2409.09589 (2024).(accepted by SLT2024) [![](https://img.shields.io/github/stars/wenet-e2e/wesep?style=social&label=Code+Stars)](https://github.com/wenet-e2e/wesep)
 - Wang Jiahe, Wang Shuai,  **<u>Li Junjie</u>**, et al. ENHANCING SPEAKER EXTRACTION THROUGH RECTIFYING TARGET CONFUSION (accepted by SLT2024) [![](https://img.shields.io/github/stars/wenet-e2e/wesep?style=social&label=Code+Stars)](https://github.com/wenet-e2e/wesep)
@@ -45,6 +47,8 @@ My research interest includes Speech Separation, Text to Speech and Speaker-rela
 selective hearing in audio-visual target speaker extraction. (Submitted to TASLP). 
 - **<u>Li Junjie</u>**, Tao Ruijie, et al. “Audio-Visual Active Speaker Extraction for Sparsely Overlapped Multi-talker
 Speech,” ICASSP 2024, pp. 10666-10670, doi: 10.1109/ICASSP48485.2024.10448398.   [![](https://img.shields.io/github/stars/mrjunjieli/ActiveExtract?style=social&label=Code+Stars)](https://github.com/mrjunjieli/ActiveExtract) [[Demo]](https://activeextract.github.io/) 
+
+## Before
 - Wang Honglong, Fu Yanjie,**<u>Li Junjie</u>**, et al. ”Stream Attention Based U-Net for L3DAS23
 Challenge,” ICASSP 2023, pp. 1-2, doi: 10.1109/ICASSP49357.2023.10095854.
 - **<u>Li Junjie</u>**, Ge Meng, et al. Rethinking the Visual Cues in Audio-Visual Speaker Extraction. Proc. INTER-
