@@ -60,6 +60,9 @@ INTERSPEECH 2022, 906-910, doi: 10.21437/Interspeech.2022-11183. [![](https://im
 - **<u>Li Junjie</u>** and Liu Ding, “Information bottleneck theory on convolutional neural networks,” Neural Pro-
 cessing Letters, vol. 53, no. 2, pp. 1385–1400, 2021. (JCR Q3)  [![](https://img.shields.io/github/stars/mrjunjieli/IB_ON_CNN?style=social&label=Code+Stars)](https://github.com/mrjunjieli/IB_ON_CNN)
 
+# 💻 Open Source Toolkit
+- WeSep [![](https://img.shields.io/github/stars/wenet-e2e/wesep?style=social&label=Code+Stars)](https://github.com/wenet-e2e/wesep)
+
 # 🎖 Honors and Awards
 - 2016-2017 President’s Scholarship Second Class (top 7%) [[pdf]](../pdf/Award_Scholarship_2nd.pdf)
 - 2016-2017 Merit Student (top 5%)[[pdf]](../pdf/Award_MeritStudent_.pdf)
@@ -69,7 +72,7 @@ cessing Letters, vol. 53, no. 2, pp. 1385–1400, 2021. (JCR Q3)  [![](https://i
 - 2020 Outstanding Graduate Award (top 5%) [[pdf]](../pdf/Award_Outstanding_Graduate_Award.pdf)
 - 2021-2022 Honda Kiyoshi’s Advanced Speech Science Award [[pdf]](../pdf/hongda.pdf)
 
-# 😄 Academic Activities 
+# 😄 Academic Activities
 - 2024.08 [PolyU Research Student Conference](https://events.polyu.edu.hk/prsc2024/home) [[Image]](../images/PRSC/index.html)
 - 2024.04 Attending ICASSP 2024, Korea. [[Image]](../images/icassp2024/index.html)
 - 2024.03 ICASSP 2024 preview, organised by <a href='https://sds.cuhk.edu.cn/en/teacher/641'>Dr. Zhizheng WU </a>, Shenzhen. [[Image]](../images/icassp2024_preview/index.html)
@@ -78,7 +81,7 @@ cessing Letters, vol. 53, no. 2, pp. 1385–1400, 2021. (JCR Q3)  [![](https://i
 - 2023.12 CHINA HI-TECH Forum 2023, Shenzhen. [[Image]](../images/HITECH2023/index.html)
 
 # ✅ Blog 
-- [Summary of Speaker-realted tasks](https://github.com/mrjunjieli/awesome_speaker)
+- [Summary of Speaker-realted tasks][![](https://img.shields.io/github/stars/mrjunjieli/awesome_speaker?style=social&label=Code+Stars)](https://github.com/mrjunjieli/awesome_speaker)
 
 <!-- 
 # 🔥 News
