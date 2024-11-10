@@ -38,7 +38,8 @@ My research interest includes Speech Separation, Text to Speech and Speaker-rela
 # 📝 Publications
 
 ## 2024 
-- MoMuSE: Momentum Multi-modal target Speaker Extraction for scenarios with impaired visual cues (Submitted to SPL) [[demo]](../demo_page/MoMuSE/index.html) 
+- MoMuSE: Momentum Multi-modal target Speaker Extraction for scenarios with impaired visual cues [[demo]](../demo_page/MoMuSE/index.html) 
+- Zhang Ke, **<u>Li Junjie</u>**, et al. Multi-Level Speaker Representation for Target Speaker Extraction(submitted to ICASSP2025)
 - **<u>Li Junjie</u>**, Zhang Ke, Wang Shuai, Li Haizhou, Mak Man-Wai, Lee Kong Aik "On the effectiveness of enrollment speech augmentation for Target Speaker Extraction." arXiv preprint arXiv:2409.09589 (2024).(accepted by SLT2024) [![](https://img.shields.io/github/stars/wenet-e2e/wesep?style=social&label=Code+Stars)](https://github.com/wenet-e2e/wesep)
 - Wang Jiahe, Wang Shuai,  **<u>Li Junjie</u>**, et al. ENHANCING SPEAKER EXTRACTION THROUGH RECTIFYING TARGET CONFUSION (accepted by SLT2024) [![](https://img.shields.io/github/stars/wenet-e2e/wesep?style=social&label=Code+Stars)](https://github.com/wenet-e2e/wesep)
 - Wang Shuai, Zhang Ke, Lin Shaoxiong, **<u>Li Junjie</u>**, et al. (2024) WeSep: A Scalable and Flexible Toolkit Towards Generalizable Target Speaker Extraction. Proc. Interspeech 2024, 4273-4277, doi: 10.21437/Interspeech.2024-1840   [![](https://img.shields.io/github/stars/wenet-e2e/wesep?style=social&label=Code+Stars)](https://github.com/wenet-e2e/wesep)
@@ -73,6 +74,7 @@ cessing Letters, vol. 53, no. 2, pp. 1385–1400, 2021. (JCR Q3)  [![](https://i
 - 2021-2022 Honda Kiyoshi’s Advanced Speech Science Award [[pdf]](../pdf/hongda.pdf)
 
 # 😄 Academic Activities
+- 2024.11. 深圳大湾区学术论坛 [Image](../images/)
 - 2024.08 [PolyU Research Student Conference](https://events.polyu.edu.hk/prsc2024/home) [[Image]](../images/PRSC/index.html)
 - 2024.04 Attending ICASSP 2024, Korea. [[Image]](../images/icassp2024/index.html)
 - 2024.03 ICASSP 2024 preview, organised by <a href='https://sds.cuhk.edu.cn/en/teacher/641'>Dr. Zhizheng WU </a>, Shenzhen. [[Image]](../images/icassp2024_preview/index.html)
