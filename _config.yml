@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Junjie LI"
-description              : "A Ph.D candidate at The Hong Kong Polytechnic University"
-repository               : "mrjunjieli/mrjunjieli.github.io"
+title                    : "Chao Yang"
+description              : "Ph.D candidate at The University of Hong Kong"
+repository               : "mrcyang/mrcyang.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Junjie LI"
-  avatar           : "images/Junjie.jpg"
+  name             : "Chao Yang"
+  avatar           : "images/chao.jpg"
   bio              : "[Curriculum Vitae]"
   location         : "Hong Kong SAR, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=CInvjq8AAAAJ"
-  email            : "mrjunjieli@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?user=5pIDtc4AAAAJ&hl"
+  email            : "chaoyang@connect.hku.hk"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,13 +37,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : mrjunjieli # e.g., "github username"
+  github           : "mrcyang" # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : junjie-li-4b0a17303 # e.g., "linkedin username"
+  linkedin         : "chao-yang-b848422b3" # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
@@ -56,7 +56,7 @@ author:
   weibo            :
   xing             :
   youtube          :
-  wikipedia        : ../images/wechat.jpg
+  wikipedia        : # ../images/wechat.jpg
 
 
 # Reading Files
