@@ -17,17 +17,18 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Ph.D student, Department of Electrical and Eletronic Engineering, Faculty of Engineering, The Hong Kong Polytechnic University (PolyU)🇭🇰. My chief supervisor is <a href="https://sites.google.com/view/kongaiklee"> Dr. Kong Aik LEE </a> and co-supervisor is <a href="http://www.eie.polyu.edu.hk/~mwmak/">Prof. Man-Wai Mak</a>. I recived my Master's Degree in College of Intellgence and Computing, Tianjin University, supervised by <a href="https://cic.tju.edu.cn/faculty/wanglongbiao/wang.html">Prof. Longbiao WANG</a>, and recived my Bachelor's Degree in School of Computer Science and Technology, Tiangong University. In my third year as an undergraduate, I was fortunate to have the opportunity to study under <a href='https://scholar.google.com.hk/citations?user=g9oFBgMAAAAJ&hl=zh-CN&oi=sra'>Dr. Ding Liu</a>, who is an excellent teacher, guiding me to the academic path. 
+# 📖 Short Bio
+I am currently a Ph.D candidate in the Academic Unit of Mathematics, Science, and Technology, Faculty of Education, The University of Hong Kong (HKU)🇭🇰. I am co-supervised by <a href="https://web.edu.hku.hk/faculty-academics/gwchen"> Prof. CHEN, Gaowei </a> and <a href="http://www.eie.polyu.edu.hk/~mwmak/"> Prof. FENG, Shihui </a>. Before joining HKU, I recived my Master's Degree in Computer Technology from Peking University, supervised by <a href="https://www.ss.pku.edu.cn/teacherteam/teacherlist/1640-%E4%BF%9E%E6%95%AC%E6%9D%BE.html"> Prof. YU, Jingsong </a>.
 
-My research interest includes Speech Separation, Text to Speech and Speaker-related tasks, such as Speaker Verification, Anti-spoofing and Voice Anonymization. <a href='https://scholar.google.com/citations?user=CInvjq8AAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fmrjunjieli%2Fmrjunjieli.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> 
+My research interests include learning sciences and technology, data visualization, classroom dialogue, and teacher professional development. My current research focuses on creating systems for personalized and collaborative learning/teaching using visual learning analytics, and other emerging techniques (e.g., AI in education). 
 
 
 
 
 # 📖 Educations
-- 2024.05 - present, Ph.D. candidate in epartment of Electrical and Eletronic Engineering,  The Hong Kong Polytechnic University, Hong Kong SAR. 
-- 2020.09 - 2023.03, M.E. in College of Intellgence and Computing, Tianjin University, Tianjin. 
-- 2016-09 - 2020.06, B.E. in School of Computer Science and Technology, Tiangong University (Tianjin Polytechnic University), Tianjin. 
+- 2021.09 - present, Ph.D. candidate in Educational Technology, The University of Hong Kong, Hong Kong SAR. 
+- 2014.09 - 2017.06, M.E. in Computer Technology, Peking University, Beijing. 
+- 2016-09 - 2020.06, B.A. in English Language and Literature, Tiangong University (Tianjin Polytechnic University), Tianjin. 
 
 # 💻 Internship Experience
 - 2023.04 - 2024.04, Research Asistant, supervised by <a href="https://sds.cuhk.edu.cn/en/teacher/498">Prof. Haizhou Li</a> and <a href="https://wsstriving.github.io">Shuai Wang</a>, The Chinese University of Hong Kong (Shenzhen). [[Project Demo]](../videos/Junjie_xinyi.mp4)
