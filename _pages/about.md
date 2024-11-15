@@ -28,7 +28,7 @@ My research interests include learning sciences and technology, data visualizati
 # 📖 Educations
 - 2021.09 - present, Ph.D. candidate in Educational Technology, The University of Hong Kong, Hong Kong SAR. 
 - 2014.09 - 2017.06, M.E. in Computer Technology, Peking University, Beijing. 
-- 2016-09 - 2020.06, B.A. in English Language and Literature, Tiangong University (Tianjin Polytechnic University), Tianjin. 
+- 2010-09 - 2014.06, B.A. in English Language and Literature, University of Emergency Management, Hebei. 
 
 # 💻 Internship Experience
 - 2023.04 - 2024.04, Research Asistant, supervised by <a href="https://sds.cuhk.edu.cn/en/teacher/498">Prof. Haizhou Li</a> and <a href="https://wsstriving.github.io">Shuai Wang</a>, The Chinese University of Hong Kong (Shenzhen). [[Project Demo]](../videos/Junjie_xinyi.mp4)
