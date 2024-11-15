@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Chao Yang"
   avatar           : "images/chao.jpg"
-  bio              : "[Curriculum Vitae]"
+  bio              : # "[Curriculum Vitae]"
   location         : "Hong Kong SAR, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=5pIDtc4AAAAJ&hl"
-  email            : "chaoyang@connect.hku.hk"
+  email            : chaoyang@connect.hku.hk
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "mrcyang" # e.g., "github username"
+  github           : # "mrcyang" # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
