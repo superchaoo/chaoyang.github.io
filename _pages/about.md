@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 📖 Short Bio
-I am currently a Ph.D candidate in the Academic Unit of Mathematics, Science, and Technology, Faculty of Education, The University of Hong Kong (HKU)🇭🇰. I am co-supervised by <a href="https://web.edu.hku.hk/faculty-academics/gwchen"> Prof. CHEN, Gaowei </a> and <a href="http://www.eie.polyu.edu.hk/~mwmak/"> Prof. FENG, Shihui </a>. Before joining HKU, I recived my Master's Degree in Computer Technology from Peking University, supervised by <a href="https://www.ss.pku.edu.cn/teacherteam/teacherlist/1640-%E4%BF%9E%E6%95%AC%E6%9D%BE.html"> Prof. YU, Jingsong </a>.
+I am currently a Ph.D candidate in the Faculty of Education (Academic Unit of Mathematics, Science, and Technology) at The University of Hong Kong (HKU)🇭🇰. I am co-supervised by <a href="https://web.edu.hku.hk/faculty-academics/gwchen"> Prof. CHEN, Gaowei </a> and <a href="http://www.eie.polyu.edu.hk/~mwmak/"> Prof. FENG, Shihui </a>. Before joining HKU, I recived my Master's Degree in Computer Technology from Peking University (PKU), supervised by <a href="https://www.ss.pku.edu.cn/teacherteam/teacherlist/1640-%E4%BF%9E%E6%95%AC%E6%9D%BE.html"> Prof. YU, Jingsong </a>.
 
 My research interests include learning sciences and technology, data visualization, classroom dialogue, and teacher professional development. My current research focuses on creating systems for personalized and collaborative learning/teaching using visual learning analytics, and other emerging techniques (e.g., AI in education). 
 
