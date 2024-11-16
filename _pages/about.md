@@ -25,7 +25,7 @@ My research interests include learning sciences and technology, data visualizati
 
 
 
-# 📖 Educations
+# 📖 Education
 - 2021.09 - present, Ph.D. candidate in Educational Technology, The University of Hong Kong, Hong Kong SAR. 
 - 2014.09 - 2017.06, M.E. in Computer Technology, Peking University, Beijing. 
 - 2010-09 - 2014.06, B.A. in English Language and Literature, University of Emergency Management, Hebei. 
