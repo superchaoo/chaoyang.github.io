@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Chao Yang"
   avatar           : "images/chao.jpg"
-  bio              : #, "[Curriculum Vitae]"
+  bio              : "[Curriculum Vitae]"
   location         : "Hong Kong SAR, China"
   employer         :
   pubmed           : 
