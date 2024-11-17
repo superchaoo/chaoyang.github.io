@@ -70,7 +70,7 @@ My research interests include learning sciences and technology, data visualizati
 - 2023.12 International Workshop on Mathematical Issues in Information Sciences 2023, CUHK(SZ). [[Image]](../images/MIIS2023/index.html)
 - 2023.12 CHINA HI-TECH Forum 2023, Shenzhen. [[Image]](../images/HITECH2023/index.html)
 
-# ✅ Services 
+# ✅ Services
 - Reviewer of CHI 2025
 - Reviewer of ISLS 2022, 2023, 2024
 - [Summary of Speaker-realted tasks][![](https://img.shields.io/github/stars/mrjunjieli/awesome_speaker?style=social&label=Code+Stars)](https://github.com/mrjunjieli/awesome_speaker)
