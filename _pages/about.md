@@ -23,8 +23,6 @@ I am currently a Ph.D candidate in the Faculty of Education (Academic Unit of Ma
 My research interests include learning sciences and technology, data visualization, classroom dialogue, and teacher professional development. My current research focuses on creating systems for personalized and collaborative learning/teaching using visual learning analytics, and other emerging techniques (e.g., AI in education). 
 
 
-
-
 # 📖 Education
 - *2021.09 - present*, Ph.D. candidate in Educational Technology, The University of Hong Kong, Hong Kong SAR. 
 - *2014.09 - 2017.06*, M.E. in Computer Technology, Peking University, Beijing. 
