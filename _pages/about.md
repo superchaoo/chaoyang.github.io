@@ -28,6 +28,7 @@ My research interests include learning sciences and technology, data visualizati
 - *2014.09 - 2017.06*, M.E. in Computer Technology, Peking University, Beijing. 
 - *2010-09 - 2014.06*, B.A. in English Language and Literature, University of Emergency Management, Hebei. 
 
+
 # 💻 Projects
 - *2023.04 - 2024.04*, Research Asistant, supervised by <a href="https://sds.cuhk.edu.cn/en/teacher/498">Prof. Haizhou Li</a> and <a href="https://wsstriving.github.io">Shuai Wang</a>, The Chinese University of Hong Kong (Shenzhen). [[Project Demo]](../videos/Junjie_xinyi.mp4)
 - *2022.06 - 2022.12*, supervised by <a href='https://scholar.google.com/citations?user=BcWMSE4AAAAJ&hl=zh-CN'>Dr. Shiliang Zhang</a>, Alibaba DAMO Academy, Hangzhou.
@@ -51,16 +52,14 @@ My research interests include learning sciences and technology, data visualizati
 - Lai, W. W. Y., **<u>Yang, C.</u>**, & Chu, S. K. W. (2021). Applying Social Media to Scaffold University Students' Inquiry Group Project Work - Theoretical and Practical Implications. Journal of Information Technology Education: Research, (20), 61-85.
 - Yu, J., **<u>Yang, C.</u>**, & Li, J. (2020). Research on Employing Lexical-Chunk Instruction Method in Translation: An Eye Tracking Approach [Chinese]. Technology Enhanced Foreign Language Education, (03), 16, 100-105.
 
+
 # 🎖 Honors and Awards
-- 2016-2017 President’s Scholarship Second Class (top 7%) [[pdf]](../pdf/Award_Scholarship_2nd.pdf)
-- 2018-2019 Merit Student (top 5%) [[pdf]](../pdf/Award_MeritStudent.pdf)
-- 2020 Outstanding Graduate Award (top 5%) [[pdf]](../pdf/Award_Outstanding_Graduate_Award.pdf)
-- 2021-2022 Honda Kiyoshi’s Advanced Speech Science Award [[pdf]](../pdf/hongda.pdf)
-- 
 - *2024* ISLS Conference Scholarship, awarded by International Society of the Learning Sciences (ISLS)
 - *2021-2025* Postgraduate Scholarship, awarded by The University of Hong Kong
 - *2022* First Class Paper Prize at Global Chinese Conference on Inquiry-based Learning: Innovations and Applications (GCCIL), awarded by Chinese Society for Inquiry Learning
 - *2021* Summer School Scholarship, awarded by Simon Initiative LearnLab, Carnegie Mellon University
+- *2014* Outstanding Graduate Award (top 5%) [[pdf]](../pdf/Award_Outstanding_Graduate_Award.pdf)
+
 
 # 😄 Academic Activities
 - 2024.11. 深圳大湾区学术论坛 [[Image]](../images/haizhou_birthday/index.html)
@@ -73,7 +72,7 @@ My research interests include learning sciences and technology, data visualizati
 
 # ✅ Services 
 - Reviewer of CHI 2025
-- Reviewer of ISLS 2024, 2023, 2022
+- Reviewer of ISLS 2022, 2023, 2024
 - 
 - [Summary of Speaker-realted tasks][![](https://img.shields.io/github/stars/mrjunjieli/awesome_speaker?style=social&label=Code+Stars)](https://github.com/mrjunjieli/awesome_speaker)
 
@@ -102,7 +101,7 @@ My research interests include learning sciences and technology, data visualizati
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📖 Educations
+# 📖 Education
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
