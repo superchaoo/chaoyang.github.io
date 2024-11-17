@@ -7,7 +7,7 @@ main:
     url: "/#-education"
 
   - title: "Projects"
-    url: "/#-internship-experience"
+    url: "/#-projects"
 
   - title: "Publications"
     url: "/#-publications"
@@ -19,6 +19,6 @@ main:
     url: "/#-academic-activities"
   
   - title: "Services"
-    urt: "/#-blog"
+    urt: "/#-services"
 
 
