@@ -26,15 +26,14 @@ My research interests include learning sciences and technology, data visualizati
 
 
 # 📖 Education
-- 2021.09 - present, Ph.D. candidate in Educational Technology, The University of Hong Kong, Hong Kong SAR. 
-- 2014.09 - 2017.06, M.E. in Computer Technology, Peking University, Beijing. 
-- 2010-09 - 2014.06, B.A. in English Language and Literature, University of Emergency Management, Hebei. 
+- *2021.09 - present*, Ph.D. candidate in Educational Technology, The University of Hong Kong, Hong Kong SAR. 
+- *2014.09 - 2017.06*, M.E. in Computer Technology, Peking University, Beijing. 
+- *2010-09 - 2014.06*, B.A. in English Language and Literature, University of Emergency Management, Hebei. 
 
 # 💻 Projects
-- 2023.04 - 2024.04, Research Asistant, supervised by <a href="https://sds.cuhk.edu.cn/en/teacher/498">Prof. Haizhou Li</a> and <a href="https://wsstriving.github.io">Shuai Wang</a>, The Chinese University of Hong Kong (Shenzhen). [[Project Demo]](../videos/Junjie_xinyi.mp4)
-- 2022.06 - 2022.12, supervised by <a href='https://scholar.google.com/citations?user=BcWMSE4AAAAJ&hl=zh-CN'>Dr. Shiliang Zhang</a>, Alibaba DAMO Academy, Hangzhou.
-- 2021.11 - 2022.01, <a href='https://e.huawei.com/cn/products/enterprise-collaboration/ideahub'>ICT</a>, Huawei, Dongguan. 
-
+- *2023.04 - 2024.04*, Research Asistant, supervised by <a href="https://sds.cuhk.edu.cn/en/teacher/498">Prof. Haizhou Li</a> and <a href="https://wsstriving.github.io">Shuai Wang</a>, The Chinese University of Hong Kong (Shenzhen). [[Project Demo]](../videos/Junjie_xinyi.mp4)
+- *2022.06 - 2022.12*, supervised by <a href='https://scholar.google.com/citations?user=BcWMSE4AAAAJ&hl=zh-CN'>Dr. Shiliang Zhang</a>, Alibaba DAMO Academy, Hangzhou.
+- *2021.11 - 2022.01*, <a href='https://e.huawei.com/cn/products/enterprise-collaboration/ideahub'>ICT</a>, Huawei, Dongguan. 
 
 # 📝 Publications
 
@@ -60,10 +59,10 @@ My research interests include learning sciences and technology, data visualizati
 - 2020 Outstanding Graduate Award (top 5%) [[pdf]](../pdf/Award_Outstanding_Graduate_Award.pdf)
 - 2021-2022 Honda Kiyoshi’s Advanced Speech Science Award [[pdf]](../pdf/hongda.pdf)
 - 
-- 2024 ISLS Conference Scholarship, awarded by International Society of the Learning Sciences (ISLS)
-- 2021-2025 Postgraduate Scholarship, awarded by The University of Hong Kong
-- 2022 First Class Paper Prize at Global Chinese Conference on Inquiry-based Learning: Innovations and Applications (GCCIL), awarded by Chinese Society for Inquiry Learning
-- 2021 Summer School Scholarship, awarded by Simon Initiative LearnLab, Carnegie Mellon University
+- *2024* ISLS Conference Scholarship, awarded by International Society of the Learning Sciences (ISLS)
+- *2021-2025* Postgraduate Scholarship, awarded by The University of Hong Kong
+- *2022* First Class Paper Prize at Global Chinese Conference on Inquiry-based Learning: Innovations and Applications (GCCIL), awarded by Chinese Society for Inquiry Learning
+- *2021* Summer School Scholarship, awarded by Simon Initiative LearnLab, Carnegie Mellon University
 
 # 😄 Academic Activities
 - 2024.11. 深圳大湾区学术论坛 [[Image]](../images/haizhou_birthday/index.html)
@@ -74,7 +73,10 @@ My research interests include learning sciences and technology, data visualizati
 - 2023.12 International Workshop on Mathematical Issues in Information Sciences 2023, CUHK(SZ). [[Image]](../images/MIIS2023/index.html)
 - 2023.12 CHINA HI-TECH Forum 2023, Shenzhen. [[Image]](../images/HITECH2023/index.html)
 
-# ✅ Blog 
+# ✅ Services 
+- Reviewer of CHI 2025
+- Reviewer of ISLS 2024, 2023, 2022
+- 
 - [Summary of Speaker-realted tasks][![](https://img.shields.io/github/stars/mrjunjieli/awesome_speaker?style=social&label=Code+Stars)](https://github.com/mrjunjieli/awesome_speaker)
 
 <!-- 
